@@ -68,7 +68,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #18BC9C;
+  background: #B9D3EE;
   color: white;
 }
 header .container {
@@ -181,7 +181,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #18BC9C;
+  background: #B9D3EE;
   color: white;
 }
 @media (max-width: 767px) {
@@ -318,7 +318,7 @@ footer .footer-below {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-  color: #18BC9C;
+  color: #B9D3EE;
   background: white;
   border: solid 2px white;
 }
